@@ -1,0 +1,1 @@
+A sound pack for [Decky Audio Loader](https://github.com/DeckThemes/SDH-AudioLoader) replacing UI-sounds with interface audio from Need for Speed: Underground 2.<br><br>[Link to audio resource](https://www.sounds-resource.com/pc_computer/needforspeedunderground2/)
