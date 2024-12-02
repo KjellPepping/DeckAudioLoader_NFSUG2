@@ -1,0 +1,10 @@
+{
+  "name": "NFS Underground Sound Pack",
+  "description": "Replaces the UI sounds with ones from the original Underground.",
+  "author": "KjellPepping",
+  "version": "v0.5",
+  "manifest_version": 2,
+  "music": false,
+  "ignore": [],
+  "mappings": {}
+}
